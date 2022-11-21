@@ -1,4 +1,5 @@
 # Magaza Yorumlari Sementic Analysis
+![image](https://www.yasantipsikoloji.com/upload/images/sayfalar/2020/duygusal-problemleri-cozmenin-10-yolu-44069-5315495833-t.jpg)
 
 * Data were collected in Turkish from various electronic stores.
 *The distinction of emotion is divided into three as "Olumlu", "Olumsuz" ve "Tarafsız".
